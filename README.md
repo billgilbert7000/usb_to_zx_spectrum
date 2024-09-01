@@ -2,7 +2,8 @@
 для подключения к компьютерам ZX Spectrum .
 На RP2040 (Raspberry Pi Pico) + MT8816 (матрица аналоговых ключей)
 
-Подключается в стандартный разъём клавиатуры ZX Spectrum.
+USB клавиатура любая проводная/безпроводная подключается к Raspberry Pi Pico через USB OTG
+Контроллер подключается в стандартный разъём для клавиатуры ZX Spectrum.
 
  Возможно подключение к другим компьютерам 
  в конструкции которых использовалась матричная клавиатура размером до 8*16
@@ -25,7 +26,9 @@ Universal USB Keyboard Controller (noWAIT)
 for connecting to ZX Spectrum computers.
 On RP2040 (Raspberry Pi Pico) + MT8816 (matrix of analog keys)
 
-It is connected to the standard ZX Spectrum keyboard connector.
+USB keyboard any wired/wireless connects to Raspberry Pi Pico via USB OTG
+The controller is connected to a standard ZX Spectrum keyboard connector.
+
  It is possible to connect to other computers 
  the design of which used a matrix keyboard up to 8*16 in size.
  
