@@ -3,6 +3,7 @@
 На RP2040 (Raspberry Pi Pico) + MT8816 (матрица аналоговых ключей)
 
 USB клавиатура любая проводная/безпроводная подключается к Raspberry Pi Pico через USB OTG
+воззможно использовать USB HUB для подключения нескольких клвиатур ;)
 Контроллер подключается в стандартный разъём для клавиатуры ZX Spectrum.
 
  Возможно подключение к другим компьютерам 
@@ -44,7 +45,9 @@ Preview versions for Pico-Zero and Pico Black/Green in the UF2 folder
  
 ![cxema](https://github.com/user-attachments/assets/be9e0c7b-1bed-4920-9347-81fc09f24c78)
 ![zx_keyboard](https://github.com/user-attachments/assets/2d583435-a0ed-4f5f-9ff7-9ba013995e30)
+ ![photo_2024-09-02_11-30-26](https://github.com/user-attachments/assets/022a2093-cf51-4bad-8f54-2c7539a9d923)
+![photo_2024-09-02_11-29-59](https://github.com/user-attachments/assets/ffe772c2-4c10-49e6-884d-63d8ed285946)
+![photo_2024-09-02_11-30-20](https://github.com/user-attachments/assets/cd9c286f-650f-4b55-9c05-49833f87e895)
 
 
 
- 
