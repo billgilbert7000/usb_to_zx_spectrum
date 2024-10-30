@@ -42,8 +42,8 @@
 #define DATMT 11
 #define STBMT 12
 
-#define LEDPIN 25 //  Black pico
-#define LEDPIN 25 //  zero pico
+//#define LEDPIN 25 //  Black pico
+#define LEDPIN 16 //  zero pico
 
 
 // макросы
